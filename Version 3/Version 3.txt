@@ -1,0 +1,8 @@
+En la tercera versión del código ya mejoramos las interfaces,
+añadimos mas botones y formularios para la inserción de datos.
+
+En la primera pagina sigue totalmente igual a como estaba en la 
+versión anterior, la página de movimientos tiene un poco mas de 
+estilo y órden. los botones ahora tienen una funcion de llevar a
+otra página del proyecto en las cuales te dara un formulario para 
+insertar los datos.
