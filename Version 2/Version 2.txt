@@ -1,0 +1,8 @@
+En la 2da versión de los códigos, cambiamos un poco los 
+estilos y mejoramos un poco lo que sería la página de 
+movimientos, aun no tenemos archivos js.
+
+La primera página sigue básicamente con las mismas características
+con un poco de cambios en cuanto a los inputs.
+La segunda pagina ya cuenta con estilos y cuenta ya con los botones
+para redirigir a las páginas de movimientos.
