@@ -1,0 +1,61 @@
+h1{
+
+	text-align: center;
+	background-color: #70472C;
+	color: #D89F5E;
+	font-family: Garamond;
+	margin: 0;
+	padding: 10px;
+	border: solid 1px black;
+
+
+
+}
+
+
+
+p {
+
+text-align: center;
+color: #D89F5E;
+font-family: Garamond;
+font-size: 80px;
+
+
+}
+
+
+body {
+
+background: url(https://www.fondoshd.mx/wallpapers/granitos-de-cafe-fondo-de-pantalla-para-cafeteria-4415.jpg);
+
+
+}
+
+#interfaz {
+
+
+border: solid 3px black;
+display: inline-block;
+	
+	background: #70472C;
+	font-family: Garamond;
+	color: black;
+	border-radius: 10px;
+	height: 600px;
+	margin: 100px;
+	margin-left: 1500px;
+	
+	padding: 30px;
+
+
+}
+
+
+#interfaz h3 {
+
+	text-align: center;
+	color: #D89F5E;
+
+
+}

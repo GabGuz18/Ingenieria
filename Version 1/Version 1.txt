@@ -1,0 +1,7 @@
+En esta version del proyecto creamos los bocetos 
+de como quedara la pagina web, con estilos y sin js.
+
+Tenemos una interfaz de inicio de sesión, donde recibe
+2 datos como son el usuario y la contraseña.
+En la siguiente página tenemos la pre-página de movimientos
+en donde estarán botones y una lista de movimientos.

@@ -1,0 +1,81 @@
+h1{
+
+	text-align: center;
+	background-color: #70472C;
+	color: #D89F5E;
+	font-family: Garamond;
+	margin: 0;
+	padding: 10px;
+	border: solid 2px black;
+
+
+}
+
+body{
+
+	background: url(https://www.fondoshd.mx/wallpapers/granitos-de-cafe-fondo-de-pantalla-para-cafeteria-4415.jpg);
+}
+
+/*
+https://st2.depositphotos.com/1533202/7260/i/600/depositphotos_72602003-stock-photo-blurred-empty-cafe.jpg
+#inicio_sesión {
+border: solid 3px black;
+display: inline-block;
+	width: 20%;
+	background: white;
+	font-family: arial;
+	color: black;
+	border-radius: 10px;
+	height: 500px;
+	margin: 100px;
+	margin-left: 725px;
+	padding: 30px;
+}
+*/
+
+#inicio_sesión{
+
+border: solid 3px black;
+display: inline-block;
+
+	
+	background: #70472C;
+	font-family: arial;
+	color: black;
+	border-radius: 10px;
+	height: 700px;
+	margin: 90px;
+	margin-left: 850px;
+	
+	padding: 30px;
+	vertical-align: top;
+
+}
+
+#inicio_sesión p{
+
+
+	text-align: center;
+}
+
+#inicio_sesión form{
+
+	text-align: center;
+	color: #D89F5E;
+	
+}
+
+#inicio_sesión img {
+
+width: 300px;
+border: solid 2px black;
+border-radius: 10px;
+margin-left: 60px;
+
+}
+
+a{
+
+
+	text-align: center;
+}
